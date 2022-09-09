@@ -58,6 +58,22 @@ footer ul li{
   padding: 20px;
 }
 
+#photo1{
+  height: 175px;
+  width: auto;
+  margin: 5px;
+}
+
+#photo2{
+  height: 175px;
+  width: auto;
+  margin: 5px;
+}
+
+h3{
+  margin:5px;
+}
+
 .flexContainer{
   display: flex;
 }
